@@ -2,4 +2,8 @@
 
 Практика в НИУ ВШЭ\Адаптисе
 
-Here you can find a short article describing this work https://docs.google.com/document/d/1hL8oGmxwEHTTgtO_LRkLy8Pdgl94NSfL1ulN0FdlBLs/edit?usp=sharing
+I cannot post detailed desciption here yet, because I was hoping to transform it into paper.
+
+`clean_generation` is the most important file here, since it describes the data augmentation approach that shows the best performance so far.
+
+`ru_mt5_on_generated` is about finetunining the model ru-mt5 from huggingface hub with our data
